@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include "header.h"
 
-FIRST 
 unsigned int factoryRecursion(int n){
     if (n < 0){
         return 0;
